@@ -24,3 +24,6 @@ Advanced asset pricing and risk factor analysis using Python for quantitative po
 - **Python**: pandas, numpy, statsmodels, matplotlib, seaborn
 - **Data Sources**: Yahoo Finance (yfinance), Fama-French Research Database
 - **Analysis**: OLS regression, time series analysis, financial modeling
+
+## Authors
+Anastasiia Golovchenko et al.
